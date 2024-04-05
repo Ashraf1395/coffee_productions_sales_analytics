@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: fact_sales
+    description: >
+      Sales record with customer 
+  - name: state_revenue
+    description: >
+      Revenue of sales by states
+  - name: age_group_purchase
+    description: >
+      purchase by age group and product type
